@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "debug": "2",
-    "ref": "https://github.com/icenium/ref/tarball/master"
+    "ref": "https://github.com/icenium/ref/tarball/vladimirov/node-0-12-support"
   },
   "devDependencies": {
     "bindings": "~1.2.0",
